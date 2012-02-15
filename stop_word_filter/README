@@ -1,0 +1,3 @@
+this removes "stop words" from text. Stop words are words that will have trivial weight as a factor in a machine learning classifier because they either have no meaning or are too common to be useful in inferring class.
+
+I have used Lucene stop words found here: http://ankitjain.info/ankit/2009/05/27/lucene-search-ignore-word-list/
